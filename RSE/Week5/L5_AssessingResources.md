@@ -15,22 +15,22 @@ Section 1: Itemize the tasks needed to start your business
 (Follow the steps on Slide 7: "Estimate Startup Phase")
 
 Startup To Do List:
-1. [Task]
-2. ...
-3. ...
-4. ...
-5. ...
+1. buy lemonds 
+2. Make signs 
+3. Get Permit
+4. Get tipjar
+5. Adverties 
 
 ----------------------------------------------------------------------
 
 Section 2: Take your task list & estimate the time & costs needed to complete all tasks
 (Follow the steps on Slide 7: "Estimate Startup Phase")
 
-1. [Task Time: hrs],[Task Cost: $] 
-2. ...
-3. ...
-4. ...
-5. ...
+1. 2-3 hour and 400$
+2. 30-60mim and 44.99$
+3. 1-3 months and 412$
+4. 
+5. 
 
 ----------------------------------------------------------------------
 
